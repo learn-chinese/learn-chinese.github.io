@@ -51,7 +51,7 @@ Learning from scratch to play Go, after just three days of learning, AlphaGo Zer
 <a name='commentary'></a>
 
 ## Commentary
-新版AlphaGo是靠more efficient algorithms来彻底的打败先前版本的AlphaGo。没有靠新的基本原理。AlphaGo Zero只能下围棋，不能下象棋，不能烧饭，不能1990年代的简单的游戏
+新版AlphaGo是靠更有效率的算法来彻底的打败先前版本的AlphaGo。没有靠新的基本原理。AlphaGo Zero只能下围棋，不能下象棋，不能烧饭，不能1990年代的简单的游戏
 
 中国的创新公司常用＂颠覆性的＂，比如它的新产品或者新概念是颠覆性的。我不喜欢用颠覆这个词，因为它过去是当坏词用的，我常用＂全新的＂、＂创造性的＂、或者＂革命性的＂等表示同样意思。
 
