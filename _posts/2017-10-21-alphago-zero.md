@@ -29,8 +29,22 @@ tags: [AI]
 * 彻底 - thoroughly
 * 摆脱 - to break away from
 * 初学者 - beginning student (literally, beginning-learning-person)
-* 颠覆性 - 这个词原意是 "disruptive"，但是现在在中国的创业公司上用得比较多，意思变成"革命性"(revolution)
+* 颠覆性 - 这个词原意是 "disruptive"，但是现在在中国的创业公司上用得比较多，意思变成"革命性"(revolution).
 * 比分 - score
+* 尊严 - sanctity
+* 防线 - defensive line
+* 沦陷 - to degenerate, to fall into enemy hands, lit. to sink into trap
+* 惨 - miserable
+* 底裤 - underwear
+
+我想带她回家，让她有尊严的死去.
+I wanted to bring her home, and let her die with dignity.
+
+法国沦陷以后，英国的处境十分危险。
+After France fell to enemy occupation, England's situation grew much worse.
+
+人类尊严的“最后防线”，再次沦陷，而且这次沦陷得更惨，连底裤都掉了!
+The last line of defense for humanity's sanctity has once again weakened. This time it's weakened so badly, it's been caught with its pants off.
 
 今天，从美国传来凶讯：留给人类的时间不多了!
 
