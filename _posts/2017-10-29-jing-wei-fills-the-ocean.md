@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jing Wei fills the ocean.
+title: Jing Wei Fills the Ocean
 excerpt: 只要坚持就可达到目标
 category: fable
 tags: [fable]
